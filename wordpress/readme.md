@@ -1,5 +1,7 @@
 # Wordpress
 
+**Use this one instead: [Docker-compose Wordpress image](https://github.com/docker/awesome-compose/tree/master/wordpress-mysql)**
+
 ## Introduction
 
 Start a Wordpress site in a Docker container.
